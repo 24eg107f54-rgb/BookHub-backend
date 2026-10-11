@@ -1,0 +1,7 @@
+
+target/
+*.log
+backend-error.txt
+.env
+.env.*
+!.env.example
